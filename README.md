@@ -116,17 +116,17 @@ Users (id, username, password, role, email, first_name, last_name)
 {
   "admin": {
     "username": "admin",
-    "password": "admin123",
+    "password": "admin",
     "role": "ADMIN"
   },
   "teacher": {
     "username": "prof.johnson",
-    "password": "teacher123",
+    "password": "nathan",
     "role": "TEACHER"
   },
   "student": {
     "username": "STU2024001",
-    "password": "student123",
+    "password": "nathan",
     "role": "STUDENT"
   }
 }
